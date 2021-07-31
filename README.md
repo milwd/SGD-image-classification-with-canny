@@ -1,2 +1,2 @@
 # SGDImageClassificationWithCanny
-linear SVM using sklearn's SGDClassifier, features: Canny edges
+linear Classifier using sklearn's SGDClassifier, features: Canny edges
